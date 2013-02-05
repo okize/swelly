@@ -1,4 +1,3 @@
-Swelly jQuery Plugin
-=====================
+Swelly Javascript Library
 
-Inline graphic resizing
+@todo: this
